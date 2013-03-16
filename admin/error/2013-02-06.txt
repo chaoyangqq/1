@@ -1,0 +1,15 @@
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newsclass` (`id`, `f_id`, `name`, `keywrod`, `remark`) VALUES (NULL, '1', '1', '', '')
+客户IP:127.0.0.1
+时间 :2013-02-06 11:30:59
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newsclass` (`id`, `f_id`, `name`, `keywrod`, `remark`) VALUES (NULL, '1', '试试', '', '')
+客户IP:127.0.0.1
+时间 :2013-02-06 11:31:14
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newsclass` (`id`, `f_id`, `name`, `keywrod`, `remark`) VALUES (NULL, '0', '试试', '', '')
+客户IP:127.0.0.1
+时间 :2013-02-06 11:31:35
+

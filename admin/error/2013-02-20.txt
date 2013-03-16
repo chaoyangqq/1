@@ -1,0 +1,22 @@
+错误SQL语句：
+update `p_newsbase` set `title` = '77' `author` = 'keywrod'  where id=''
+客户IP:127.0.0.1
+时间 :2013-02-20 03:12:53
+
+错误SQL语句：
+update `p_newsbase` set `title` = 'd' `author` = 'aa4444'  where id='43'
+客户IP:127.0.0.1
+时间 :2013-02-20 03:14:44
+
+错误SQL语句：
+UPDATE  `news`.`p_newsbase` SET  `title` =  'aaaaaaaasd',
+`author` =  'aaasdfaaa' WHERE  `p_newsbase`.`id` = '43' LIMIT 1
+    		update `p_newsbase` set `title` = 'aaaaaaaasd' `author` = 'aa4444'  where id='43'
+客户IP:127.0.0.1
+时间 :2013-02-20 03:18:24
+
+错误SQL语句：
+UPDATE `p_newsbase` SET  `title` =  'aaaaaaaasd',`author` =  '44',`keywrod` =  '' WHERE  `id` = '43' LIMIT 1
+客户IP:127.0.0.1
+时间 :2013-02-20 03:23:36
+

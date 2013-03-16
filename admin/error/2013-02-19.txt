@@ -1,0 +1,15 @@
+错误SQL语句：
+SELECT * FROM p_newsbase order by date_time dec limit  0, 20
+客户IP:127.0.0.1
+时间 :2013-02-19 02:38:51
+
+错误SQL语句：
+INSERT INTO `p_newscontent` (`nid`, `keywrod`, `content`, `remark`) VALUES (32, '', &lt;p&gt;欢迎使用UEditor！&lt;/p&gt;, '')
+客户IP:127.0.0.1
+时间 :2013-02-19 04:11:54
+
+错误SQL语句：
+INSERT INTO `p_newscontent` (`nid`, `keywrod`, `content`, `remark`) VALUES (36, '',  , '')
+客户IP:127.0.0.1
+时间 :2013-02-19 07:48:32
+
